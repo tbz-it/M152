@@ -1,7 +1,6 @@
 # M152 Multimedia-Inhalte in Webauftritt integrieren
 
 Umgebung für die Integration von Multimedia auf einem Webserver. 
-Die Skripts sind abgestimmt auf die [lernmaas](https://github.com/mc-b/lernmaas) Umgebung.
 
 Verwendete Produkte
 -------------------
